@@ -1,6 +1,8 @@
 # coffee_crew
 
-A new Flutter application.
+Coffee Crew APP - Used Firebase and FireStore for Authentication and storage of data.Used Flutter For Cross Platform Support.
+
+Keeps track of crew members Choice over Coffee.
 
 ## Getting Started
 
