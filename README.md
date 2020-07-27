@@ -1,4 +1,4 @@
-# coffee_crew
+# Coffee Crew
 
 Coffee Crew APP - Used Firebase and FireStore for Authentication and storage of data.Used Flutter For Cross Platform Support.
 
